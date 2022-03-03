@@ -5,8 +5,8 @@ Main objective is to evaluate different models using some machine learning algor
 worked on 6 basic emotions: Happiness, Sadness, Surprise, Anger, Neutral, Worry.
 ### Data Acquisition
 There are two different dataset where we experiment our model for comparison:
-Tweet-Emotion 
-Go-Emotion 
+* Tweet-Emotion 
+* Go-Emotion 
 ### Methodologies
 Dataset Preprocessing
 Text Preprocessing
